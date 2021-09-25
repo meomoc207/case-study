@@ -105,7 +105,7 @@ function drawApple() {
 function checkAppleCollision() {
     if(appleX === headX && appleY === headY) {
         appleX = Math.floor(Math.random() * tileCount);
-        appleX = Math.floor(Math.random() * tileCount);
+        appleY = Math.floor(Math.random() * tileCount);
         tail_length++; //if the snakes eats an "apple", it gets longer
         score++;
         sound_eat.play();
