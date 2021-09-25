@@ -8,6 +8,6 @@ the snake was made with canvas
 
 music was stolen from various sources
 
-background was stolen from various sources
+background was stolen from google images
 
 i have no talent at all haha
